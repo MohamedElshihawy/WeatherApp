@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="textLightMode">
+    <item name="android:textColor">@color/colorOnPrimary </item>
+    <item name="background">@color/colorPrimaryVariantLight</item>
+    </style>
+    <style name="recycleViewLight">
+        <item name="background" >@color/colorPrimaryVariantLight</item>
+
+    </style>
+
+
+
+
+
+
+</resources>
